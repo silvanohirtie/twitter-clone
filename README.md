@@ -1,8 +1,9 @@
 
 <!-- PROJECT LOGO -->
-<br />
-<img src="twitter.png">
-</img>
+<p align="center">
+  <a href="https://github.com/silvanohirtie/twitter-clone">
+    <img width="100px" height="98px"src="twitter.png" alt="Logo">
+  </a>
   <h3 align="center">Twitter Fullstack Clone</h3>
 
   <p align="center">
