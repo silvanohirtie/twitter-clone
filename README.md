@@ -73,7 +73,11 @@ Project Link: [https://github.com/silvanohirtie/deno-server](https://github.com/
 
 <!-- Features -->
 ## Features
-test
+* Express Routing
+* mongoDB connection and usage by mongoose
+* post sorting by last one
+* Custom 404 page
+* .env file toprotect the db connection info
 <!-- screenshot -->
 ## Screenshot
 <!-- Mobile -->
