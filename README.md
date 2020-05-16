@@ -7,7 +7,7 @@
   <h3 align="center">Twitter Fullstack Clone</h3>
 
   <p align="center">
-    Modern and mobile-friendlty tweet punction wrote Full-Stack
+    Modern and mobile-friendly tweet function wrote Full-Stack
     <br />
     <br />
     <a href="https://github.com/silvanohirtie/twitter-clone/blob/master/server.js">View Source</a>
