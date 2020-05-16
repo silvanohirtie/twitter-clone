@@ -25,6 +25,7 @@
   * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Contact](#contact)
+* [Code Features](#features)
 * [Screenshot](#screenshot)
 
 
@@ -36,12 +37,21 @@ It has already set up the static files, with a correct using of the file path
 
 
 ### Built With
+Front-End:
+* Jade Pug
+* SCSS
+* Bootstrap
+* Node.js
+* Fontawesome
 
-* [Deno](https://deno.land/)
-* [Typescript](https://www.typescriptlang.org/)
-* [Scss](https://sass-lang.com/)
-* [Oakserver for Deno](https://github.com/oakserver/oak)
-
+Back-end:
+* Node.js
+* Express
+* MongoDB
+* DotEnv
+* Nodemon
+* Mongoose
+* body-parser
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -61,6 +71,9 @@ Discord: Silvano#8106 - hirtie.silvano@gmail.com
 
 Project Link: [https://github.com/silvanohirtie/deno-server](https://github.com/silvanohirtie/deno-server)
 
+<!-- Features -->
+## Features
+test
 <!-- screenshot -->
 ## Screenshot
 <!-- Mobile -->
