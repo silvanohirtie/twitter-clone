@@ -63,7 +63,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Discord: Silvano#8106 - hirtie.silvano@gmail.com
 
-Project Link: [https://github.com/silvanohirtie/deno-server](https://github.com/silvanohirtie/deno-server)
+Project Link: [https://github.com/silvanohirtie/twitter-clone](https://github.com/silvanohirtie/twitter-clone)
 
 <!-- Features -->
 ## Features
