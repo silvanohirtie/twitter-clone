@@ -1,7 +1,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-
+<img src="twitter.png">
+</img>
   <h3 align="center">Twitter Fullstack Clone</h3>
 
   <p align="center">
@@ -21,19 +22,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Contributing](#contributing)
 * [Contact](#contact)
 * [Code Features](#features)
 * [Screenshot](#screenshot)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This is a free template for a Deno server, it is based on Oakserver's functions.  
-It has already set up the static files, with a correct using of the file path  
 
 
 ### Built With
