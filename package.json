@@ -17,6 +17,6 @@
     "express-error-handler": "^1.1.0",
     "mongoose": "^5.9.14",
     "nodemon": "^2.0.4",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
